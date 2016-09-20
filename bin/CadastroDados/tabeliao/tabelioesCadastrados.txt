@@ -1,0 +1,7 @@
+dm.albuquerque|123|Daniel M. Albuquerque|Rua Tal tal|76|Cohab|Cohab|Frecheirinha|Ceará
+dm|123|nome|ender|7|complemento|bairro|cidade|estado
+
+
+usuario|senha|nome|endereço|7|complemento|bairro|cidade|estado
+dm-alb|123|null|null|0|null|null|null|null
+dm-albq|123|d|e|7|c|b|c|e
